@@ -94,7 +94,7 @@ The project is divided into two main components:
 ### Backend Setup
 1. Navigate to the backend directory:
    ```bash
-   cd smiuapi
+   cd SMIUAPI/WEBAPI
    ```
 2. Install dependencies:
    ```bash
@@ -107,7 +107,7 @@ The project is divided into two main components:
    ```
 4. Start the server:
    ```bash
-   npm start
+   node index.js
    ```
 
 ## 📝 API Documentation
