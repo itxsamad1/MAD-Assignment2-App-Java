@@ -112,17 +112,14 @@ The project is divided into two main components:
 
 ## 📝 API Documentation
 
-The backend provides the following main endpoints:
-- `GET /api/...` - [Endpoint description]
-- `POST /api/...` - [Endpoint description]
-- `PUT /api/...` - [Endpoint description]
-- `DELETE /api/...` - [Endpoint description]
+The backend provides the following endpoints:
+- `GET /api/students` - Get all students
+- `GET /api/teachers` - Get all teachers
+- `GET /api/courses` - Get all courses
+- `GET /api/enrollments` - Get all enrollments
 
 ## 👥 Contributors
 - [@itxsamad1](https://github.com/itxsamad1)
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Acknowledgments
 - Thanks to the course instructors and teaching assistants
